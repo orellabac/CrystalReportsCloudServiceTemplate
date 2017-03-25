@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "CrystalReportsCloudService", "CrystalReportsCloudService\CrystalReportsCloudService.ccproj", "{F5640619-ED12-464E-862C-9ECCC443F52E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrystalReportsService", "CrystalReportsService\CrystalReportsService.csproj", "{4384D3D9-08CC-4B5A-94F0-CDACAE73DC65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCloudServiceWebAPI", "TestCloudServiceWebAPI\TestCloudServiceWebAPI.csproj", "{4656BC27-43C4-4216-851E-6D177C378457}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5640619-ED12-464E-862C-9ECCC443F52E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5640619-ED12-464E-862C-9ECCC443F52E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5640619-ED12-464E-862C-9ECCC443F52E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5640619-ED12-464E-862C-9ECCC443F52E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4384D3D9-08CC-4B5A-94F0-CDACAE73DC65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4384D3D9-08CC-4B5A-94F0-CDACAE73DC65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4384D3D9-08CC-4B5A-94F0-CDACAE73DC65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4384D3D9-08CC-4B5A-94F0-CDACAE73DC65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4656BC27-43C4-4216-851E-6D177C378457}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4656BC27-43C4-4216-851E-6D177C378457}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4656BC27-43C4-4216-851E-6D177C378457}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4656BC27-43C4-4216-851E-6D177C378457}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
